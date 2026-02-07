@@ -14,6 +14,8 @@ export const metadata: Metadata = {
   description: "متجر أعشاب طبيعية مغربية أصيلة - صحة، توازن، وطبيعة.",
   icons: {
     icon: '/rachidiya logo.png',
+    shortcut: '/rachidiya logo.png',
+    apple: '/rachidiya logo.png',
   },
 };
 
