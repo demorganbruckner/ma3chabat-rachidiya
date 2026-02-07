@@ -12,6 +12,9 @@ const tajawal = Tajawal({
 export const metadata: Metadata = {
   title: "معشبة الراشيدية | Ma3chabat Rachidiya",
   description: "متجر أعشاب طبيعية مغربية أصيلة - صحة، توازن، وطبيعة.",
+  icons: {
+    icon: '/rachidiya logo.png',
+  },
 };
 
 export default function RootLayout({
