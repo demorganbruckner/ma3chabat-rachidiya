@@ -12,7 +12,7 @@ import { clsx } from 'clsx';
 const navLinks = [
     { name: 'الرئيسية', href: '/' },
     { name: 'منتجاتنا', href: '/shop' },
-    { name: 'من نحن', href: '/#about' },
+    { name: 'من نحن', href: '/about' },
     { name: 'تواصل معنا', href: '/contact' },
 ];
 
